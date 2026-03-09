@@ -1,0 +1,9 @@
+node_modules/
+playwright-report/
+test-results/
+allure-report/
+allure-results/
+.env
+top_5_iphones.txt
+logs/
+.DS_Store
